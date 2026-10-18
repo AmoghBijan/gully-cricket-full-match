@@ -1,0 +1,11 @@
+{
+  "name": "Gully Cricket Full Match",
+  "short_name": "Full Match",
+  "description": "Gully Cricket player match tracker, statistics, field setup and quick scoring",
+  "start_url": "./fullMatch.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09090b",
+  "theme_color": "#34d399"
+}
